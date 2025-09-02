@@ -1,4 +1,4 @@
-Hi, I'm Thirdy
+Hi, I'm Thirdy not idealkooks **lol**
 
 # About Me
 
