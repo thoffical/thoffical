@@ -17,5 +17,5 @@ Feel free to reach out to me at thcorporation8@yahoo.com.
 i also revive skins and addons
 
 # Donate
-Btc:  bc1qlungttdvkgu2d95vp8pfs70z322n8ep4nnf2pw
+Btc: zpub6o8NdS4Pnoz77gQ8ceWCeP1Mxe4r2AUNABXa8MRtNQrWvrU9RAtkPtpuhvR1cxPACo7H3S76mHdmmfz2HECrAuUqfh229Rjd25S29J2D1EN
 Card: paypal.me/idealkooks
