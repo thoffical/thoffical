@@ -15,3 +15,7 @@ Development frameworks: Flask
 
 Feel free to reach out to me at thcorporation8@yahoo.com.
 i also revive skins and addons
+
+# Donate
+Btc:  bc1qlungttdvkgu2d95vp8pfs70z322n8ep4nnf2pw
+Card: paypal.me/idealkooks
