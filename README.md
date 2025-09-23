@@ -19,6 +19,8 @@ i also revive skins and addons
 # Donate
 Bitcoin: bc1qqm2ex3w0rrs3hq3fzqarm0e3jad6fxxl772yft
 
+Litecoin: ltc1qmn7yddejlem29dvnjg38kayk7djmklaxssqaep
+
 By card: paypal.me/idealkooks
 
 **You can thank me for my work like reviving Embuary**
