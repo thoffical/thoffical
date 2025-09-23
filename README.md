@@ -20,3 +20,5 @@ i also revive skins and addons
 Bitcoin: bc1qqm2ex3w0rrs3hq3fzqarm0e3jad6fxxl772yft
 
 By card: paypal.me/idealkooks
+
+**You can thank me for my work like reviving Embuary**
