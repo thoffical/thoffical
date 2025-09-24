@@ -23,4 +23,5 @@ Litecoin: ltc1qmn7yddejlem29dvnjg38kayk7djmklaxssqaep
 
 By card: paypal.me/idealkooks
 
+_You may see my full donation gist: https://tinyurl.com/donateforth_
 **You can thank me for my work like reviving Embuary**
